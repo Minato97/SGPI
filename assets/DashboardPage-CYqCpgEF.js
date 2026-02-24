@@ -1,0 +1,1 @@
+import{_ as e,o as t,e as o}from"./index-B3W15PeQ.js";const r={},a={class:"text-h2 text-center bg-primary text-white text-weight-bold"};function c(s,n){return t(),o("div",a,"Dashboard")}const d=e(r,[["render",c]]);export{d as default};

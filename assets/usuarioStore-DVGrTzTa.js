@@ -1,0 +1,1 @@
+import{d as r}from"./pinia-mStIRTgv.js";import{f as t}from"./index-B3W15PeQ.js";const n="/SGPI/assets/SGPI_LOGO-DTuPnYXU.png",l=r("usuario",()=>{const s=t(null);return{usuario:s,setUsuario:o=>{s.value=o},limpiarTodo:()=>{s.value=null}}},{persist:!0});export{n as _,l as u};
