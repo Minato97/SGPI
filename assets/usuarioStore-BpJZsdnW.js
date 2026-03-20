@@ -1,0 +1,1 @@
+import{d as s}from"./pinia-D84DSnAh.js";import{g as u}from"./index-CKh59Rc_.js";const l=s("usuario",()=>{const o=u(null);return{usuario:o,setUsuario:r=>{o.value=r},limpiarTodo:()=>{o.value=null}}},{persist:!0});export{l as u};
