@@ -1,0 +1,1 @@
+import{Q as t}from"./QBtn-CMloDug9.js";import{o as a,a as n}from"./index-_8SBVuP7.js";const p={__name:"BotonEnviar",props:{label:{type:String,default:"Enviar"}},setup(e){const o=e;return(r,l)=>(a(),n(t,{rounded:"",label:o.label,type:"submit",color:"accent",icon:"send"},null,8,["label"]))}};export{p as _};

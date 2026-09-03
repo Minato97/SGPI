@@ -1,0 +1,1 @@
+import{Q as o}from"./QBtn-CMloDug9.js";import{o as r,a as t}from"./index-_8SBVuP7.js";const p={__name:"BotonGuardar",props:{label:{type:String,default:"Guardar"}},setup(a){const e=a;return(l,n)=>(r(),t(o,{outline:"",rounded:"",label:e.label,type:"submit",color:"accent",icon:"save"},null,8,["label"]))}};export{p as _};
