@@ -1,0 +1,1 @@
+import{Q as e}from"./QBtn-BoIK7OKJ.js";import{o as r,a}from"./index-CISa6VFx.js";const p={__name:"BotonEditar",props:{label:{type:String,default:"Editar"}},setup(o){const t=o;return(l,n)=>(r(),a(e,{rounded:"",label:t.label,type:"submit",color:"secondary",icon:"edit"},null,8,["label"]))}};export{p as _};
