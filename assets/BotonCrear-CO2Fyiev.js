@@ -1,0 +1,1 @@
+import{Q as o}from"./QBtn-CW5zP0Ev.js";import{_ as e,o as r,a as t}from"./index-C8FzP3le.js";const c={__name:"BotonCrear",props:{label:{type:String,default:"Crear"}},setup(a){return(n,l)=>(r(),t(o,{rounded:"",label:a.label,color:"accent",icon:"add",class:"boton-crear"},null,8,["label"]))}},p=e(c,[["__scopeId","data-v-96afbc56"]]);export{p as B};
