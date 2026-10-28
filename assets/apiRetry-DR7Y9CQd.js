@@ -1,0 +1,1 @@
+function n(t){if(!t)return!1;try{return JSON.parse(atob(t.split(".")[1])).exp>Math.floor(Date.now()/1e3)}catch{return!1}}async function s(t,{delayMs:a=800}={}){try{return await t()}catch(e){const r=localStorage.getItem("token");if(e?.response?.status===401&&n(r))return await new Promise(o=>setTimeout(o,a)),await t();throw e}}export{s as w};
